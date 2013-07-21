@@ -2,5 +2,5 @@ readme
 ======
 
 
-initial reamme for easy-phone
+initial readme for easy-phone
 
